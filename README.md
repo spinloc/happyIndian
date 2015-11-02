@@ -1,2 +1,5 @@
 # happyIndian
-My first git repo. It's really unclear time what I will make of it.
+I will test som stuff and put it here.
+Maybe an app that I will call Happy Indian.
+
+This will be interesting.
